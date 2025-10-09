@@ -1,5 +1,10 @@
-# Entry 1
-##### X/X/XX
+# SEP10 Freedom Project
+
+---
+
+# Entry 1: Deciding on My Topic (Diagnostic Medical Sonographer)
+##### 10/08/25
+
 
 Text
 
