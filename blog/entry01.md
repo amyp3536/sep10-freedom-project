@@ -19,15 +19,15 @@ I am currently in the first stage of the engineering design process, where the m
 
 ## Skills
 
-Some skills that I've learned from working on this blog are **time managment**,**critical thinking**,**problem solving**
+Some skills that I've learned from working on this blog are **time managment**,**critical thinking**,**and problem solving**
 
-####Time Managment
+#### Time Managment
 I have various commitments outside of school such as Student Goverment on Tuesdays, Gardening Club on Wednesday, Health Club on Thursdays, and Equity on Friday. After these clubs, I go to tennis practice, because im on the girls tennis team. I also have a workload from diffretn classes. I also have my own personal life to manage. Overall, I manage to be on top of everything, organizing when to get things done right on time.
 
-####Critical Thinking
+#### Critical Thinking
 This blog has led me to understand how much technology connects to healthcare and finding solutions
 
-####Problem Solving
+#### Problem Solving
 This blog has made me think of way to solve these challenges and impacts. 
 
 
