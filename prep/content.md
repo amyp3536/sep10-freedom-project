@@ -40,7 +40,11 @@ Topic: **Sonography**
   * Works on Windows and Mac
 
 * Fifth App I reviwed was: [GE Health Care](https://www.gehealthcare.com/)
+  * Touch screen ultrasound for imaging
+  * Has AI tools to help
+  * Works with Windows
   * 
+    
 ## Part B: possible future technology
 * Idea
   * Detail
