@@ -8,9 +8,9 @@ Topic: **Sonography**
 ## Part A: existing technology
 * 1st Google Search: "Sonography apps and software used by ultrasound technicians"
   
-* 1st   website I looked into:https://www.butterflynetwork.com/
+* 1st website I looked into:https://www.butterflynetwork.com/
   * After I looked at this website, I found other similiar technologies that can help sonographers learn and perform scans digitally.
-    
+     
 * First app I reviwed was: [Butterfly iQ](https://www.butterflynetwork.com/iq-plus)
   * A portable handheld ultrasound device that can connect to a phone
   * Shows live imagining through the app
@@ -43,7 +43,11 @@ Topic: **Sonography**
   * Touch screen ultrasound for imaging
   * Has AI tools to help
   * Works with Windows
-  * 
+
+## Hardware in Diagnostic Medical Sonography
+* 1st Google Search:"Hardware used in diagnostic sonographer besides ultrasound machine"
+* 1st website I looked into: "https://www.gehealthcare.com/"
+  * After I looked at this website, I learned there are many other equitment that help the ultrasound machines work better and a comftorbale process.  
     
 ## Part B: possible future technology
 * Idea
