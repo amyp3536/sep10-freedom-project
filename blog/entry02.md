@@ -1,7 +1,7 @@
 # Entry 2
-##### X/X/XX
+##### 11/03/25
 
-Text
+Since my last blong entry 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
