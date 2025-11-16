@@ -67,10 +67,29 @@ Topic: **Sonography**
     * They dont have to touch the control panel
     * Enhance work flow
     * Allows sonographers to focus on patient care while taking image
-* 4th Hardware I reviewed was: [Manual Adjusment Contols](https://mxrimaging.com/Blogs/Six-Ways-to-Improve-Ultrasound-Imaging#:~:text=The%20quickest%20way%20to%20improve,wash%20out%20the%20dark%20areas.)
+* 4th Hardware I reviewed was: [Manual Adjustment Contols](https://mxrimaging.com/Blogs/Six-Ways-to-Improve-Ultrasound-Imaging#:~:text=The%20quickest%20way%20to%20improve,wash%20out%20the%20dark%20areas.)
   *  Improves images
   *  Controls images with settings
-    
+
+# Timeline
+####  Context/Overview 
+* Songarphy was founded in **1956** by a team of Scotish obstetrian and enginner who cearted a prototype. This marked a revolutionary step in healthcare by creating a safe, real-time imaging, and afforadability.
+
+### Past ---> Present
+* **Gel Warmers**
+  * Created to have the ability to give comfort by keeping the gel warm and help sound waves travel better.
+* **Footswitch**
+  * A pedal on the floor that lets sonographers take images hands free, keeps the process more hygienic, and allows sonographers to focus on patient care while taking image.
+* **Manual Adjustment Controls**
+  * The ability to use manual controls is essential to adjust brightness and to achive the best image quality.
+* **3D/4D Imaging Probes**
+  * Provides a clearer picture, not taking over 2D scans, but a tool, and can see the Ulrasound in real time.
+* **Philips Lumpfy**
+  * Turns phones and tablets to a ultasound system, makes it more acessable and mobile
+* **Clarius Mobile Health**
+  *  Wireless handheld scanner, uses AI to improve image clarity, and image shows on phones & tablets
+* **SonoSim**
+  * An Ultrasound siulation Software used to train students, and has virtual patience and realistic cases, it is also used in colleges and medical training programs  
 ## Part B: possible future technology
 * Idea
   * Detail
