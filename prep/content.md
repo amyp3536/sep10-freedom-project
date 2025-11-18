@@ -91,5 +91,14 @@ Topic: **Sonography**
 * **SonoSim**
   * An Ultrasound siulation Software used to train students, and has virtual patience and realistic cases, it is also used in colleges and medical training programs  
 ## Part B: possible future technology
-* Idea
-  * Detail
+* 3rd Hollagram 
+  * Projects the ultrasound imaging into the air
+  * You can view scan from all angels
+  * Gives a better understanding to the image
+*  Using gestures as controls
+  * No use of bottons
+  * But rather controlled by hand movements
+  * More hygenic
+* Interpretining the body part/organ
+  * when scanning,labels appear
+  * This can help identify    
