@@ -95,7 +95,7 @@ Topic: **Sonography**
   * Projects the ultrasound imaging into the air
   * You can view scan from all angels
   * Gives a better understanding to the image
-*  Using gestures as controls
+* Using gestures as controls
   * No use of bottons
   * But rather controlled by hand movements
   * More hygenic
