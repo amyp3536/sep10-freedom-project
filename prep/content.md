@@ -16,8 +16,9 @@ Topic: **Sonography**
   * Shows live imagining through the app
   * Affortable
   * Works on iOS and Andriod
-  * Easy to take anywhere    
-  * [Butterfly iQ][
+  * Easy to take anywhere
+   ![butterfly](https://github.com/user-attachments/assets/ff97e7cb-2b52-4002-8b1c-25948ce5934b)
+
     
 * Second App I reviewed was: [Clarius Mobile Health](https://clarius.com/)
   * Wireless handheld scanner
@@ -25,24 +26,31 @@ Topic: **Sonography**
   * Image shows on phones & tablets
   * Helps users learn
   * Works on iOS and Android
-  * [Clarius Mobile Health][]
+    <img width="225" height="225" alt="clarius" src="https://github.com/user-attachments/assets/a112006a-e5fd-47b5-8a3c-4e56745a5c02" />
+
     
 * Third App I reviewed was: [Philips Lumpify](https://www.usa.philips.com/healthcare/ultrasound)
   * Turns phone and tablet into a ultrasound system
   * Connects with a probe and shows liive images
   * Can be great for practice
   * Works on iOS and Android
+   ![philips](https://github.com/user-attachments/assets/a38c7d89-a555-445c-b424-d623ff6a1d94)
+
     
 * Fourth App I reviewed was: [SonoSim](https://sonosim.com/)
   * An Ultrasound siulation Software used to train students
   * Has virtual patience and realistic cases
   * It is used in colleges and medical training programs
   * Works on Windows and Mac
+ ![sonosim](https://github.com/user-attachments/assets/c8ca672b-026d-4287-abcd-9d3825bbca9d)
+
 
 * Fifth App I reviwed was: [GE Health Care](https://www.gehealthcare.com/)
   * Touch screen ultrasound for imaging
   * Has AI tools to help
   * Works with Windows
+![gehealth](https://github.com/user-attachments/assets/d067f19b-50e2-43ee-a753-6e7f07a25a04)
+
 
 ## Hardware in Diagnostic Medical Sonography
 * 1st Google Search:"Hardware used in diagnostic sonographer besides ultrasound machines"
@@ -55,12 +63,15 @@ Topic: **Sonography**
   * Is expensive
   * Can be found in specialized clinics
   * Can see the Ulrasound in real time
+    
 * 2nd Hardware I reviewed was:[Gel Warmer](https://blog.universalmedicalinc.com/what-you-need-to-know-about-ultrasound-gels-and-warmers/#:~:text=The%20Aquasonic%20100%20Ultrasound%20Transmission%20Gel%20is%20available%20in%2020g,ll%20be%20in%20touch%20shortly.)
   * Keeps gel warm for comfort 
   * Better sound conduction
   * Easy to use
   * Maintains safe temperature levels for patient use
   * Are essential tools found in clinics
+    ![gelwarmers](https://github.com/user-attachments/assets/c1c4f3d5-cdec-4d47-9516-5bd92426cbc5)
+
 * 3rd Hardware I reviewed was:[Footswitch](https://www.herga.com/news-media/technical-blog-archive/footswitches-and-hand-controls-in-medical-image-capture-applications)
     * A pedal on the floor that lets sonographers take images hands free
     * Keeps the process more hygienic
@@ -70,6 +81,8 @@ Topic: **Sonography**
 * 4th Hardware I reviewed was: [Manual Adjustment Contols](https://mxrimaging.com/Blogs/Six-Ways-to-Improve-Ultrasound-Imaging#:~:text=The%20quickest%20way%20to%20improve,wash%20out%20the%20dark%20areas.)
   *  Improves images
   *  Controls images with settings
+    <img width="310" height="163" alt="controls" src="https://github.com/user-attachments/assets/29549422-fce4-4fa5-a3bd-73c69af6a79b" />
+
 
 # Timeline
 ####  Context/Overview 
