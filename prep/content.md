@@ -2,10 +2,9 @@
 Topic: **Sonography**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+The topic I decided on for this project is Diagnostic Medical Sonographer, because it's the career I want to pursue in the future. I've always been interested in the medical field. I find it fascinating that sonographers use ultrasound machines that send sound waves to create an image which helps understand what's going on inside the body. I researched the existing techonologys they use. I also researched how technology makes their work accurate. Its uses in technology allow to help people in signinificant ways. I am also trying to create the Possible Future Technology which can help define the problem im trying to solve,  **ultrasound images arent always clear, which can make it harder to understand, or diagnose the patient accuratley**.
 
-## Part A: existing technology
+## Part A: Existing technology
 * 1st Google Search: "Sonography apps and software used by ultrasound technicians"
   
 * 1st website I looked into:https://www.butterflynetwork.com/
@@ -103,7 +102,7 @@ Topic: **Sonography**
   *  Wireless handheld scanner, uses AI to improve image clarity, and image shows on phones & tablets
 * **SonoSim**
   * An Ultrasound siulation Software used to train students, and has virtual patience and realistic cases, it is also used in colleges and medical training programs  
-## Part B: possible future technology
+## Part B: Possible Future Technology
 * 3rd Hollagram 
   * Projects the ultrasound imaging into the air
   * You can view scan from all angels
