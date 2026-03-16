@@ -33,6 +33,11 @@ For my freedom project, we had the opportunity to incorporate a tool in our webs
 ### Outcome
 <img width="1365" height="601" alt="Screenshot 2026-03-16 6 35 49 PM" src="https://github.com/user-attachments/assets/2ebf1fe6-8415-41e5-92e1-5ac9d96bd398" />
 
+# Skills
+* Understanding the basic concepts of Aframe
+* Learning the HTML code to create shapes
+* Trying to be creative tinkiring with the shapes and colors
+* Attention to detail within the code and tring to position the shapes
 
 
 [Previous](entry03.md) | [Next](entry05.md)
