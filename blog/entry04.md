@@ -4,6 +4,9 @@
 # Context
 For my freedom project, we had the opportunity to incorporate a tool in our website. I have choosen the tool A-frame. A-frame is a web framework that is able to create 3D and virtual reality scenes just with the use of HTML. I choose this tool because I thought it would be intresting to have something interactive and visual for my project. When I began tinkering with A-frame I began looking at the website to understand the basics and tried it on my own. 
 
+
+#### Code 
+
 ```HTML
  </head>
     <body>
@@ -26,8 +29,9 @@ For my freedom project, we had the opportunity to incorporate a tool in our webs
 
         </script>
     </body>
-</html>
 ```
+### Outcome
+<img width="1365" height="601" alt="Screenshot 2026-03-16 6 35 49 PM" src="https://github.com/user-attachments/assets/2ebf1fe6-8415-41e5-92e1-5ac9d96bd398" />
 
 
 
