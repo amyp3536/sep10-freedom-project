@@ -20,7 +20,7 @@
 <img width="1365" height="767" alt="Screenshot 2026-03-23 9 18 46 AM" src="https://github.com/user-attachments/assets/f0d2c225-1442-4732-918b-9b830650c371" />
 
 ### 3/23/26:
-I have been learning how to create shapes, understand the basics, the positions, trying to figure out how to use the VR feature. The positions are confusing but still getting the uses of how it positions. 
+I have been learning how to create shapes, understand the basics, the positions, trying to figure out how to use the **VR feature**. The positions are confusing but still getting the uses of how it positions. 
 ```HTML
 <a-scene>
   <a-assets>
