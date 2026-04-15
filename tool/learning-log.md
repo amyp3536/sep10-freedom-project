@@ -51,6 +51,14 @@ I have been learning how to create shapes, understand the basics, the positions,
   </a-camera>
 </a-scene>
 ```
+### 4/15/26 --> Timeline
+# Wednesday
+* Viewing the options of an entity, Aframe has many, so viewing ans seeing the structure will help understand the concept better. By doing this i will tinker with each entity to see what each one does. 
+# Thursday
+* Have a better understanding of the positioning with the coordinate. Understanding the relevance of x,y,z. By doing this, I will tinker with pre-made code to see how (x,y,z) works.
+# Friday
+* How to add background and a scenery. With Aframe, it allows texture, material applied, 360 video. By doing this I will look at videos and guides to help create a background. 
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
