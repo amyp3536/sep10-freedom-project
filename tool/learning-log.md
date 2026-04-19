@@ -95,7 +95,20 @@ I have been learning how to create shapes, understand the basics, the positions,
 
 # Friday
 * How to add background and a scenery. With Aframe, it allows texture, material applied, 360 video. By doing this I will look at videos and guides to help create a background. 
-
+```HTML
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="0 1 -2" color="lightgray" metalness="0.5" roughness="0.5"></a-box>
+      <a-plane position="0 0 -5" rotation="-90 0 0" width="15" height="15" color="lightblue"></a-plne>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
