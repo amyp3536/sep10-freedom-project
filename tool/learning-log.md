@@ -53,7 +53,26 @@ I have been learning how to create shapes, understand the basics, the positions,
 ```
 ### 4/15/26 --> Timeline
 # Wednesday
-* Viewing the options of an entity, Aframe has many, so viewing ans seeing the structure will help understand the concept better. By doing this i will tinker with each entity to see what each one does. 
+* Viewing the options of an entity, Aframe has many, so viewing ans seeing the structure will help understand the concept better. By doing this i will tinker with each entity to see what each one does.
+```HTML
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sky color="#a8dadc"></a-sky>
+      <a-plane position="0 0 -5" rotation="-90 0 0" width="10" height="10" color="#6a994e"></a-plane>
+      <a-box position="0 1 -5" width="2" height="2" depth="2" color="#ffe6a7"></a-box>
+      <a-cone position="0 2.5 -5" radius-bottom="1.5" height="1" color="#8B0000"></a-cone>
+      <a-box position="0 0.5 -3.9" width="0.5" height="1" depth="0.1" color="#5e503f"></a-box>
+      <a-box position="-0.7 1.2 -3.9" width="0.4" height="0.4" depth="0.1" color="#a8dadc"></a-box>
+    </a-scene>
+  </body>
+</html>
+```
+<img width="1366" height="768" alt="Screenshot 2026-04-18 11 44 31 PM" src="https://github.com/user-attachments/assets/8e5fcade-4b3a-479a-9c9a-bab3a85e3c41" />
+
 # Thursday
 * Have a better understanding of the positioning with the coordinate. Understanding the relevance of x,y,z. By doing this, I will tinker with pre-made code to see how (x,y,z) works.
 # Friday
