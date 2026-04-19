@@ -75,6 +75,24 @@ I have been learning how to create shapes, understand the basics, the positions,
 
 # Thursday
 * Have a better understanding of the positioning with the coordinate. Understanding the relevance of x,y,z. By doing this, I will tinker with pre-made code to see how (x,y,z) works.
+```HTML
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-box position="0 1 -3" rotation="0 45 0" color="lightblue"></a-box>
+      <a-sphere position="-2 1 -3" radius="1.25" color="pink"></a-sphere>
+      <a-cylinder position="2 1 -3" radius="0.5" height="1.5" color="lightgray"></a-cylinder>
+      <a-box position="0 3 -3" rotation="0 45 0" color="lightyellow"></a-box>
+      <a-sphere position="0 1 -6" radius="1.25" color="purple"></a-sphere>
+      <a-sky color="#ECECEC"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
+
 # Friday
 * How to add background and a scenery. With Aframe, it allows texture, material applied, 360 video. By doing this I will look at videos and guides to help create a background. 
 
