@@ -1,6 +1,4 @@
-<img width="1366" height="768" alt="Screenshot 2026-04-19 12 26 05 AM" src="https://github.com/user-attachments/assets/973d9868-dca2-403b-8ab4-876fa429e77a" />
-<img width="1366" height="768" alt="Screenshot 2026-04-19 12 26 05 AM" src="https://github.com/user-attachments/assets/e314f330-6e37-4649-983b-912f46c4c8b6" />
-<img width="1366" height="768" alt="Screenshot 2026-04-19 12 26 05 AM" src="https://github.com/user-attachments/assets/55b08742-ccbd-4ad7-90fb-aa4575aaeb01" />
+
 # Tool Learning Log
 
 ## Tool: **A-frame**
@@ -95,6 +93,7 @@ I have been learning how to create shapes, understand the basics, the positions,
   </body>
 </html>
 ```
+<img width="1366" height="768" alt="Screenshot 2026-04-19 12 57 44 AM" src="https://github.com/user-attachments/assets/8e183439-5b91-43df-8d57-61f3f98ae4d9" />
 
 # Friday
 * How to add background and a scenery. With Aframe, it allows texture, material applied, 360 video. By doing this I will look at videos and guides to help create a background. 
@@ -112,6 +111,8 @@ I have been learning how to create shapes, understand the basics, the positions,
   </body>
 </html>
 ```
+<img width="1366" height="768" alt="Screenshot 2026-04-19 12 26 05 AM" src="https://github.com/user-attachments/assets/73ed2e3c-26e7-42ce-8018-2922d887dc70" />
+
 <!-- 
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
