@@ -51,7 +51,7 @@ I have been learning how to create shapes, understand the basics, the positions,
   </a-camera>
 </a-scene>
 ```
-### 4/15/26 --> Timeline
+# 4/15/26 --> Timeline
 # Wednesday
 * Viewing the options of an entity, Aframe has many, so viewing ans seeing the structure will help understand the concept better. By doing this i will tinker with each entity to see what each one does.
 ```HTML
