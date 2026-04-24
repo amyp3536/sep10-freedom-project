@@ -14,13 +14,22 @@
 
 #### MVP
 
-* Task/Timeline
+* F 4/24 begin setting up navabar & put headings to all sections
+* Weekend: Overview & color scheme
+* M 4/27 part A software perhaps accordian??
+* T 4/28 part A hardware add image perhaps cards
+* W 4/29 part B add image
+* T 4/30 create the aframe 3d tool
+* F 5/1 Finish the timeline and future tech
+* Weekend: finalize the aframe model & CSS
+* 
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Fix alignment issues (i.e. cards with inconsistent heights)
+
 
 
 
