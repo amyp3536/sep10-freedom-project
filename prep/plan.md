@@ -5,7 +5,11 @@
 * [Desktop](https://wireframe.cc/JV8yLk)
 
 ## Colors
-* `#ABC123`
+* `#012a4a` -Deep Space Blue
+* `#013a63` -Yale Blue
+* `#01497c` -Yale Blue
+* `#014f86` - Dusk Blue
+
 
 ## Fonts
 * [Text](URL)
