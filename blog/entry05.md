@@ -61,7 +61,11 @@ Adding background and a scenery. With Aframe, it allows texture, material applie
 </html>
 ```
 <img width="1366" height="768" alt="Screenshot 2026-04-19 12 26 05 AM" src="https://github.com/user-attachments/assets/73ed2e3c-26e7-42ce-8018-2922d887dc70" />
-
+# Skills
+* Learned the posioning in Aframe
+* Continued expanding my knowlege of entitys
+* Adding texture to shapes
+* 
 [Previous](entry04.md) | [Next](entry06.md)
 
 [Home](../README.md)
