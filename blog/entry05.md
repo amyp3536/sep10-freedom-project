@@ -44,6 +44,7 @@ Have a better understanding of the positioning with the coordinate. Understandin
 </html>
 ```
 <img width="1366" height="768" alt="Screenshot 2026-04-19 12 57 44 AM" src="https://github.com/user-attachments/assets/8e183439-5b91-43df-8d57-61f3f98ae4d9" />
+
 # Tinker 3
 Adding background and a scenery. With Aframe, it allows texture, material applied, 360 video. By doing this I will look at videos and guides to help create a background. Creating this with given code.
 
