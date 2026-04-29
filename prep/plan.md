@@ -12,7 +12,8 @@
 
 
 ## Fonts
-* [Text](URL)
+* [Bricolage_Grotesque.zip](https://github.com/user-attachments/files/27213169/Bricolage_Grotesque.zip)
+* [Unbounded.zip](https://github.com/user-attachments/files/27213184/Unbounded.zip)
 
 ## Timeline
 
