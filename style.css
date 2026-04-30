@@ -2,3 +2,42 @@
     .center {
   text-align: center;
     }
+
+  h1{
+  padding-bottom:200px;
+  color:#ffffff;
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+    h2 {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    color: #89c2d9;
+}
+
+
+
+   body {
+      font-family: Arial, sans-serif;
+      background-color: #013a63;
+      margin: 160px;
+      padding-top: 200px;
+    }
+
+    p {
+  color: #fcefb4;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
