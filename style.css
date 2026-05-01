@@ -26,6 +26,19 @@
     color: #89c2d9;
 }
 
+h6 {
+  color:#ffffff;
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+  color:#FFFF;
+  text-align: left;
+  padding: 10px;
+}
+
 
 
    body {
@@ -40,5 +53,7 @@
   font-style: normal;
 }
 
-
+li {
+  color:#013a63;
+}
 
