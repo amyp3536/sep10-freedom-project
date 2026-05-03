@@ -62,24 +62,17 @@ li {
     "wdth" 100;
 }
 
-.gesture {
-  background-color:#a3cef1;
-  color:#FFFF;
+h5 {
+  color:#013a63;
   font-family: "Bricolage Grotesque", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 500;
+  font-weight: 700;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
 }
-
-.interp {
-  background-color:#a3cef1;
-  color:#FFFF;
-  font-family: "Bricolage Grotesque", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+.aframe-box{
+  width: 700px;
+  height:450px;
+  border-radius:20px;
 }
