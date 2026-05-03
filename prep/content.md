@@ -1,3 +1,4 @@
+<img width="1038" height="692" alt="BE6399AA-7CC8-451F-813D-149215F1D1A8" src="https://github.com/user-attachments/assets/df083333-ec8e-4f1c-a517-ea016d7001cf" />
 # Content
 Topic: **Sonography**
 
@@ -113,4 +114,6 @@ The topic I decided on for this project is Diagnostic Medical Sonographer, becau
   * More hygenic
 * Interpretining the body part/organ
   * when scanning,labels appear
-  * This can help identify    
+  * This can help identify
+    <img width="1038" height="692" alt="image" src="https://github.com/user-attachments/assets/31f41561-e7ed-47f7-aae2-45edccb49c32" />
+
