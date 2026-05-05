@@ -47,7 +47,7 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| fatema | i really like how you used the aframe because it looks like a crystal ball which looks cool | It needs to be responsive for part a because the words are all over the place like it though :3 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
