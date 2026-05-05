@@ -49,8 +49,8 @@
 | -------- | ------- | ------- |
 | fatema | i really like how you used the aframe because it looks like a crystal ball which looks cool | It needs to be responsive for part a because the words are all over the place like it though :3 |
 | Annabella | I love the way you set up your cards I believe. In the split screen view it all lines up nicely. | For your hardare there is this awkward space on the first row in full screen, maybe find a way around that? |
-|  |  |  |
-|  |  |  |
+| Yuxin | I really like your layout and the color schemes. I also like how you used your Aframe to make your tool. | For your Manual Adjustment controls, on the side the words are cramped together its a little hard to read but other than that i think your website is good!! |
+| Kaitlyn | I really like the color schemes and your future tech aframe design. | The texts on the side on the Manual Adjustment controls card are a bit hard to read. Make sure its responsive  as well as the images. |
 |  |  |  |
 
 
