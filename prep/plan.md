@@ -48,7 +48,7 @@
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
 | fatema | i really like how you used the aframe because it looks like a crystal ball which looks cool | It needs to be responsive for part a because the words are all over the place like it though :3 |
-|  |  |  |
+| Annabella | I love the way you set up your cards I believe. In the split screen view it all lines up nicely. | For your hardare there is this awkward space on the first row in full screen, maybe find a way around that? |
 |  |  |  |
 |  |  |  |
 |  |  |  |
