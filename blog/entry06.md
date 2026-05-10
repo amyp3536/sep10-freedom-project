@@ -37,6 +37,12 @@ After gathering all of my information, I created a wireframe [Mobile](https://wi
  </div>
 </div>
 ```
+Even though it was frustraiting at times, working through those problems helped me better understand web design and how much planning goes into building a website.
+
+# EDP
+My next stages in my engineering design process is continuing to improve the design and functuinality of my website.
+
+# Skills
 
 [Previous](entry05.md) | [Next](entry07.md)
 
