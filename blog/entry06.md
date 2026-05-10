@@ -1,7 +1,7 @@
 # Entry 6
 ##### 05/05/26
 
-# Content
+## Content
 After gathering all of my information, I created a wireframe [Mobile](https://wireframe.cc/J9O8Do) & [Desktop](https://wireframe.cc/JV8yLk) to plan out how I wanted my website to look. This helped me organize where each section, image, and my tool would go. One challenge I faced was figuring out how to properly lay everything out on the page, especially making cards line up correctly and making the website adjust to smaller screens. This is shown in the code below: 
 ``` HTML
 <div class="container-fluid center">
@@ -39,10 +39,13 @@ After gathering all of my information, I created a wireframe [Mobile](https://wi
 ```
 Even though it was frustraiting at times, working through those problems helped me better understand web design and how much planning goes into building a website.
 
-# EDP
+## EDP
 My next stages in my engineering design process is continuing to improve the design and functuinality of my website.
 
-# Skills
+## Skills
+
+Some skills that I've learned from working on this blog are **time managment**,**creativity**,**problem solving**,**& organization**
+* Time managment
 
 [Previous](entry05.md) | [Next](entry07.md)
 
