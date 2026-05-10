@@ -45,8 +45,17 @@ My next stages in my engineering design process is continuing to improve the des
 ## Skills
 
 Some skills that I've learned from working on this blog are **time managment**,**creativity**,**problem solving**,**& organization**
-* Time managment
+#### Time managment
+Balancing this project with school,clubs,sports, and other responsibilities
 
+#### Creativity
+Having to be creative in designing future technology and planning how to present them visually with color schemes and more.
+
+#### Problem Solving
+Figuring out coding/layout issues and finding ways to fix them
+
+#### Organization
+The most important part is to be organize, I needed to organize code in order to prevent errors and creating a wireframe helps organize the website. 
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
