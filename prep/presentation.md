@@ -1,16 +1,23 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Ask a question or an imaginary scenario
 
 ## Product
-* 
+* Show my website
+* Aframe
+* future teachnolgy ideas
 
 ## Process
-* 
+* Brainstorming future technolgies,
+* wireframe planning,
+* tool learning with snippets,
+* lastly the coding challenges I came across with code snippets.
 
 ## Conclusion
-* 
+* Takeaways
+ * Coding requires patience and problem solving: there were many times where my code would completely break because of one missing div, wrong class, or small mistakes.
+* The future of sonography may not just be viewed on screens, but experienced in 3d 
 
 <!-- EXAMPLE
 
